@@ -21,3 +21,4 @@ https://github.com/eugenp/tutorials/tree/master/spring-boot-angular-ecommerce
 
 ### Test Resources
 https://www.baeldung.com/spring-boot-testing
+https://www.baeldung.com/introduction-to-assertj
