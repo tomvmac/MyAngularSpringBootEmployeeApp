@@ -16,9 +16,11 @@ Spring boot microservice using controller, services, jpa repository and h2 datab
 
 ### Resources
 https://www.baeldung.com/spring-angular-ecommerce
+
 https://github.com/eugenp/tutorials/tree/master/spring-boot-angular-ecommerce
 
 
 ### Test Resources
 https://www.baeldung.com/spring-boot-testing
+
 https://www.baeldung.com/introduction-to-assertj
