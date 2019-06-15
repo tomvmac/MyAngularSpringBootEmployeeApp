@@ -11,7 +11,8 @@ employee-services
 
 Spring boot microservice using controller, services, jpa repository and h2 database.
 
-
+h2 console url:
+http://localhost:8080/h2-console
 
 
 ### Resources
