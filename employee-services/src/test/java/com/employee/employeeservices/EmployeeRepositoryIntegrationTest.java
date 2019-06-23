@@ -41,7 +41,7 @@ public class EmployeeRepositoryIntegrationTest {
     @Test
     public void whenFindAllEmployeeSize_thenReturnEmployeeSize() {
     	// given
-    	int expectedEmployeeCount = 3;
+    	int expectedEmployeeCount = 4;
     	
     	// when
     	List <Employee> employeeList = employeeRepository.findAll();
